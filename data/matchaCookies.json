@@ -5,18 +5,18 @@
     "cooking_time_min": 35,
     "servings": 24, 
     "ingredients": {
-        "dry": [{ "item": "All Purpose Flour", "amount": "1 1/3", "unit": "Cup" },
-        { "item": "Matcha Powder", "amount": "1 1/4", "unit": "TBSP" },
-        { "item": "Baking Soda", "amount": "1/2", "unit": "TSP" },
-        { "item": "Salt", "amount": "1/2", "unit": "TSP" }],
+        "dry": [{ "item": "All Purpose Flour", "amount": 1.33, "unit": "Cup" },
+        { "item": "Matcha Powder", "amount": 1.25, "unit": "TBSP" },
+        { "item": "Baking Soda", "amount": 0.5, "unit": "TSP" },
+        { "item": "Salt", "amount": 0.5, "unit": "TSP" }],
         "wet" : [ { "item": "Butter", "amount": 8, "unit": "TBSP" },
-        { "item": "Brown Sugar", "amount": "1/4", "unit": "Cup" },
-        { "item": "White Sugar", "amount": "1/3", "unit": "Cup" },
+        { "item": "Brown Sugar", "amount": 0.25, "unit": "Cup" },
+        { "item": "White Sugar", "amount": 0.33, "unit": "Cup" },
         { "item": "Egg", "amount": 1},
         { "item": "Vanilla Extract", "amount": 1, "unit": "TSP" }],
         "optional topping": [
-             { "item": "White Chocolate Chips", "amount": "1/2", "unit": "Cup"},
-             { "item": "Dark Chocolate Chips", "amount": "1/2", "unit": "Cup"}
+             { "item": "White Chocolate Chips", "amount": 0.5, "unit": "Cup"},
+             { "item": "Dark Chocolate Chips", "amount": 0.5, "unit": "Cup"}
         ]
     },
     "directions":
